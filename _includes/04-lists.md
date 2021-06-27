@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Video Games 🎮
+* Music 🎧
+  *Hip-hop/R&B
+  *Rap
+  *Punk Rock
